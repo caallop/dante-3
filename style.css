@@ -1,0 +1,18 @@
+#botao {
+    display: block;            /* Faz o botão se comportar como um bloco */
+    width: 200px;              /* Largura do botão (ajuste conforme necessário) */
+    height: 50px;              /* Altura do botão (ajuste conforme necessário) */
+    margin: 20px auto;         /* Centraliza o botão (com 20px de margem acima e abaixo) */
+    font-size: 18px;           /* Tamanho da fonte (ajuste conforme necessário) */
+    padding: 10px 20px;        /* Preenchimento interno do botão (ajuste conforme necessário) */
+    background-color: #4CAF50; /* Cor de fundo do botão */
+    color: white;              /* Cor do texto */
+    border: none;              /* Remove a borda padrão */
+    border-radius: 30px;        /* Cantos arredondados (opcional) */
+    cursor: pointer;          /* Cursor de ponteiro quando passa sobre o botão */
+    
+}
+
+#botao:hover {
+    background-color: #45a049; /* Cor de fundo ao passar o mouse */
+}
